@@ -1,0 +1,6 @@
+STT  MSSV           HO VA TEN SINH VIEN                     DIEM TB   
+1    2010210045     Vu        Van                 Dang       8.23
+2    2010210101     Pham      Minh                Bao        7.54
+3    2010210001     Nguyen    Vo Tan              Quyen      7.15
+4    2010210005     Dinh      Viet                Thuan      6.24
+5    2010210031     Le        Van                 Hoai       4.37

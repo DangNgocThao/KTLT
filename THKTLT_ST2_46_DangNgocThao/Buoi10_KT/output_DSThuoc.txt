@@ -1,0 +1,3 @@
+STT  MA THUOC  TEN THUOC      NHA SAN XUAT     DANG THUOC    DON GIA     CONG DUNG                     
+1    T02SG     Siro           Duoc Sai Gon     Nuoc          2200        Tri ho tre em                 
+2    T01VN     Asparin        Duoc Viet Nam    Vien          1500        Tri ho sot                    
